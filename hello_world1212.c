@@ -4,5 +4,5 @@ int main()
 {
   printf("Hello,World");
  printf("Have maked my slave1");
-
+  return 0;
 }
